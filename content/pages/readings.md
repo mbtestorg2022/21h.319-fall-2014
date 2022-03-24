@@ -209,7 +209,7 @@ Israel, Jerold, and Yale Kamisar, eds. "Materials on Plea Bargaining." In _Crimi
 
 Kutateladze, Besiki Luka, and Nancy R. Andiloro. "[Prosecution and Racial Justice in New York County](https://www.ncjrs.gov/pdffiles1/nij/grants/247227.pdf)." _Vera Institute of Justice Report_ (2014): iv–xvi.
 
-Hornby, D. Brock. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Speaking in Sentences," (PDF)](http://www.greenbag.org/v14n2/v14n2_articles_hornby.pdf) 14 Green Bag 2d 141 (2011).
+Hornby, D. Brock. ["Speaking in Sentences," (PDF)](http://www.greenbag.org/v14n2/v14n2_articles_hornby.pdf) 14 Green Bag 2d 141 (2011).
 
 [Press release on Madonna Say case](http://www.justice.gov/usao-ma/pr/boston-area-couple-charged-sex-trafficking-child)
 
@@ -295,7 +295,7 @@ Are Illegal Aliens "Criminals"?
 
 Ngai, Mae M. "[The Strange Career of the Illegal Alien: Immigration Restriction and Deportation Policy in the United States, 1921–1956](http://dx.doi.org/10.2307/3595069)." _Law and History Review_ 21, no. 1 (2003): 69–108.
 
-Sklansky, David. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Crime, Immigration and Ad Hoc Instrumentalism (PDF - 3.3MB)](http://www.antoniocasella.eu/nume/Sklansky_2012.pdf)." _15 New Criminal Law Review_ 157 (2012).
+Sklansky, David. "[Crime, Immigration and Ad Hoc Instrumentalism (PDF - 3.3MB)](http://www.antoniocasella.eu/nume/Sklansky_2012.pdf)." _15 New Criminal Law Review_ 157 (2012).
 
 Giovagnoli, Mary. "[Overhauling Immigration Law: A Brief History and Basic Principles of Reform](https://www.americanimmigrationcouncil.org/research/overhauling-immigration-law-brief-history-and-basic-principles-reform)," Immigration Policy Center White Paper.
 
@@ -325,7 +325,7 @@ Legal Process and Civil Liberties – from WWII to the War on Terror
 
 Cole, David. _Enemy Aliens: Double Standards and Constitutional Freedoms in the War on Terrorism_. New Press, 2005, pp. 85–104. ISBN: 9781565849389.
 
-Saito, Natsu Taylor. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Symbolism under Siege: Japanese American Redress and the 'Racing' of Arab Americans as Terrorists (PDF - 2.0MB)](https://lawcat.berkeley.edu/record/1117590/files/fulltext.pdf)." _Asian American Law Journal at Berkeley Law_ 8, no. 1 (2001).
+Saito, Natsu Taylor. "[Symbolism under Siege: Japanese American Redress and the 'Racing' of Arab Americans as Terrorists (PDF - 2.0MB)](https://lawcat.berkeley.edu/record/1117590/files/fulltext.pdf)." _Asian American Law Journal at Berkeley Law_ 8, no. 1 (2001).
 
 
 {{< tdclose >}}
