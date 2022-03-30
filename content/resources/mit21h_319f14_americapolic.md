@@ -5,6 +5,7 @@ description: 'Example of student work for a writing assignment comparing the use
   national security policing. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/5a8599f3af7eafe4a32f0b2667de26f1_MIT21H_319F14_AmericaPolic.pdf
 file_type: application/pdf
+parent_uid: 2eff9a41-859a-0bfe-9b50-0f0f10384eaa
 resourcetype: Document
 title: 'Awareness of Racial Discrimination in American Policing: Transforming The
   Silent Observer'

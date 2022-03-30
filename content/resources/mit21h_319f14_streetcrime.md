@@ -5,6 +5,7 @@ description: Example of student work for a writing assignment comparing the use 
   national security policing.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-319-race-crime-and-citizenship-in-american-law-fall-2014/14b99ddf2b6f5054722e9b8184d0fcf9_MIT21H_319F14_StreetCrime.pdf
 file_type: application/pdf
+parent_uid: 2eff9a41-859a-0bfe-9b50-0f0f10384eaa
 resourcetype: Document
 title: Historical Patterns in Street Crime and National Security Policing
 uid: 14b99ddf-2b6f-5054-722e-9b8184d0fcf9

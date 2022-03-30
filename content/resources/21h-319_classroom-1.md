@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 32948ae3-ff24-e22f-4227-de3077fdf8a0
 resourcetype: Image
 title: 21H-319_classroom-1
 uid: c1160e71-914a-050b-bde9-79a69cc256af
